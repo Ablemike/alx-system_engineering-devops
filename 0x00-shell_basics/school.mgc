@@ -1,4 +1,2 @@
-#!/bin/bash
-O string SCHOOL school data
-!:mime schools
-!:MIME school
+string SCHOOL School data/n:mime school
+file -C -m school.mgc
