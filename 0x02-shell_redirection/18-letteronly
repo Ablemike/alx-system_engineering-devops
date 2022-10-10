@@ -1,0 +1,2 @@
+#!/bin/bash
+egrep ^[[:alpha:]] /etc/SSH/sshd_confiq

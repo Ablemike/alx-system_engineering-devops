@@ -1,0 +1,2 @@
+#!/bin/bash
+tail -n +2 | cut -c-1 | sort | unique -c | sort -nr -k 11 | cut - c a- | head -11
